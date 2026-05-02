@@ -1,0 +1,136 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_desc",
+      "value": "Yemek Tarifi uygulaması"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Yemek Tarifi"
+    },
+    {
+      "name": "nav_recipes",
+      "value": "Tarifler"
+    },
+    {
+      "name": "nav_bookmarks",
+      "value": "Favoriler"
+    },
+    {
+      "name": "nav_favorites",
+      "value": "Favoriler"
+    },
+    {
+      "name": "nav_detail",
+      "value": "Detay"
+    },
+    {
+      "name": "label_description",
+      "value": "Açıklama"
+    },
+    {
+      "name": "label_ingredients",
+      "value": "Malzemeler"
+    },
+    {
+      "name": "label_steps",
+      "value": "Adımlar"
+    },
+    {
+      "name": "label_nutrition",
+      "value": "Besin Değerleri (porsiyon başına)"
+    },
+    {
+      "name": "label_servings",
+      "value": "porsiyon"
+    },
+    {
+      "name": "label_minutes",
+      "value": "dk"
+    },
+    {
+      "name": "label_kcal",
+      "value": "kcal"
+    },
+    {
+      "name": "btn_add_bookmark",
+      "value": "Favorilere Ekle"
+    },
+    {
+      "name": "btn_remove_bookmark",
+      "value": "Favorilerden Çıkar"
+    },
+    {
+      "name": "msg_loading_bookmarks",
+      "value": "Favoriler yükleniyor..."
+    },
+    {
+      "name": "msg_no_bookmarks",
+      "value": "Henüz favori yok."
+    },
+    {
+      "name": "msg_loading",
+      "value": "Yükleniyor..."
+    },
+    {
+      "name": "difficulty_easy",
+      "value": "Kolay"
+    },
+    {
+      "name": "difficulty_medium",
+      "value": "Orta"
+    },
+    {
+      "name": "difficulty_hard",
+      "value": "Zor"
+    },
+    {
+      "name": "category_all",
+      "value": "Tümü"
+    },
+    {
+      "name": "category_soup",
+      "value": "Çorbalar"
+    },
+    {
+      "name": "category_main",
+      "value": "Ana Yemekler"
+    },
+    {
+      "name": "category_dessert",
+      "value": "Tatlılar"
+    },
+    {
+      "name": "category_pastry",
+      "value": "Hamur İşleri"
+    },
+    {
+      "name": "category_breakfast",
+      "value": "Kahvaltılıklar"
+    },
+    {
+      "name": "category_salad",
+      "value": "Salatalar"
+    },
+    {
+      "name": "category_drink",
+      "value": "İçecekler"
+    },
+    {
+      "name": "btn_start_cooking",
+      "value": "Pişirmeye Başla"
+    },
+    {
+      "name": "nav_cook_mode",
+      "value": "Pişirme Modu"
+    },
+    {
+      "name": "hint_search",
+      "value": "Ara…"
+    },
+    {
+      "name": "msg_no_results",
+      "value": "Sonuç yok"
+    }
+  ]
+}

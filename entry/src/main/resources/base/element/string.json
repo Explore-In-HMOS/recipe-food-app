@@ -6,11 +6,135 @@
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description"
+      "value": "Food Recipe app"
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "Food Recipe"
+    },
+    {
+      "name": "nav_recipes",
+      "value": "Recipes"
+    },
+    {
+      "name": "nav_bookmarks",
+      "value": "Bookmarks"
+    },
+    {
+      "name": "nav_favorites",
+      "value": "Favorites"
+    },
+    {
+      "name": "nav_detail",
+      "value": "Detail"
+    },
+    {
+      "name": "label_description",
+      "value": "Description"
+    },
+    {
+      "name": "label_ingredients",
+      "value": "Ingredients"
+    },
+    {
+      "name": "label_steps",
+      "value": "Steps"
+    },
+    {
+      "name": "label_nutrition",
+      "value": "Nutrition (per serving)"
+    },
+    {
+      "name": "label_servings",
+      "value": "servings"
+    },
+    {
+      "name": "label_minutes",
+      "value": "min"
+    },
+    {
+      "name": "label_kcal",
+      "value": "kcal"
+    },
+    {
+      "name": "btn_add_bookmark",
+      "value": "Add Bookmark"
+    },
+    {
+      "name": "btn_remove_bookmark",
+      "value": "Remove Bookmark"
+    },
+    {
+      "name": "msg_loading_bookmarks",
+      "value": "Loading bookmarks..."
+    },
+    {
+      "name": "msg_no_bookmarks",
+      "value": "No bookmarks yet."
+    },
+    {
+      "name": "msg_loading",
+      "value": "Loading..."
+    },
+    {
+      "name": "difficulty_easy",
+      "value": "Easy"
+    },
+    {
+      "name": "difficulty_medium",
+      "value": "Medium"
+    },
+    {
+      "name": "difficulty_hard",
+      "value": "Hard"
+    },
+    {
+      "name": "category_all",
+      "value": "All"
+    },
+    {
+      "name": "category_soup",
+      "value": "Soups"
+    },
+    {
+      "name": "category_main",
+      "value": "Main"
+    },
+    {
+      "name": "category_dessert",
+      "value": "Desserts"
+    },
+    {
+      "name": "category_pastry",
+      "value": "Pastry"
+    },
+    {
+      "name": "category_breakfast",
+      "value": "Breakfast"
+    },
+    {
+      "name": "category_salad",
+      "value": "Salads"
+    },
+    {
+      "name": "category_drink",
+      "value": "Drinks"
+    },
+    {
+      "name": "btn_start_cooking",
+      "value": "Start Cooking"
+    },
+    {
+      "name": "nav_cook_mode",
+      "value": "Cook Mode"
+    },
+    {
+      "name": "hint_search",
+      "value": "Search…"
+    },
+    {
+      "name": "msg_no_results",
+      "value": "No matches"
     }
   ]
 }
